@@ -1,4 +1,4 @@
-# Automne 2019
+# Automne 2020
 
 # Calendrier GINF
 ![alt tag](./GINF20A.png)
